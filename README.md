@@ -16,3 +16,4 @@ Models used:
 - Logistic Regression  
 - Random Forest  
 - XGBoost (Benchmark Model)
+- SMOTE
