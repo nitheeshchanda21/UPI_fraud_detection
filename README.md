@@ -1,4 +1,4 @@
-Risk-Based UPI Fraud Detection System:
+UPI Fraud Detection System:
 
 A machine learning-based fraud detection system designed to identify suspicious UPI transactions using cost-sensitive modeling and threshold optimization.
 This project focuses on maximizing fraud capture (high recall) while maintaining practical decision boundaries similar to real-world payment risk engines.
